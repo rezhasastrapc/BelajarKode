@@ -1,4 +1,4 @@
-module github.com/jeypc/go-auth
+module github.com/rezhasastrapc/go-auth
 
 go 1.18
 
